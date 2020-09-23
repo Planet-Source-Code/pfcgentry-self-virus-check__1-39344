@@ -1,0 +1,7 @@
+If using one of the Project scanners from PSC please note this Project uses the Kill Function to Remove a Temp file the App Creates. SO dont be alarmed if it shows up as Harmfull code.
+
+IF you have any Questions or Statements on How to Improve this or another more simple way then please e-mail me at.
+
+PFCGEntry@MarineCorps.com
+
+Thanks for Downloading the Code, and if you like it then Vote.
